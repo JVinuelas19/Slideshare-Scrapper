@@ -1,4 +1,12 @@
-# Slideshare-Scrapper
+# Slideshare-Scrapper v1.0
 Script that scrapes any book/presentation from slideshare.net through its URL and provides a PDF file with the book.
 It features some basic actions to avoid straight bans from websites employing a random timer between requests and also different headers for each request. For the basic use that is desired to (just personal use) it is more than enough.
 Use it with your own discretion and please don't profit with it!
+
+# Update v1.1:
+Now the script has more features: 
+-Timers
+-Detailed information about book paths
+-Books are now saved with their original title instead of 'Book'
+-Commented code
+-Bug fixes (headers had errors that lead to execution errors)
