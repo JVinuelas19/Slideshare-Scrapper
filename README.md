@@ -13,6 +13,6 @@ Now the script has more features:
 
 # Update v1.2:
 New options added:
--You can choose between downloading a book/slides directly from a URL or from a txt file that contains URLs (one URL per line with no extra chars)
--You can add your own path to store the books. Otherwise the books will be saved in the same location where the code is stored.
--Info about this profile and a donation page has been added to the scrapper when the run is over.
+- You can choose between downloading a book/slides directly from a URL or from a txt file that contains URLs (one URL per line with no extra chars)
+- You can add your own path to store the books. Otherwise the books will be saved in the same location where the code is stored.
+- Info about this profile and a donation page has been added to the scrapper when the run is over.
